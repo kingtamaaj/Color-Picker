@@ -165,11 +165,11 @@ nav {
 }
 .navbar-center {
   width:100vw;
-  max-width: var(--fixed-width);
+ 
   margin: 0 auto;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .navbar-center h4 {
   margin-bottom: 0;
